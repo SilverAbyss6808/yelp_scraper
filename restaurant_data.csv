@@ -1,14 +1,13 @@
 ranking,name,rating,review_count,price_range,phone,categories,services
-,Vallartas Bar And Grill,4.3,3,-,(567) 712-2024,"Mexican, Bars","Outdoor seating, Delivery, Takeout"
-,Wings and Rings,3.3,48,$$,(567) 371-4497,"Sandwiches, Chicken Wings, New American","Outdoor seating, Delivery, Takeout"
-1,The Met,4.4,232,$$,(419) 999-9463,"Wine Bars, Gastropubs","Outdoor seating, Takeout"
-2,Twisted Whisk Cafe,4.9,8,-,(419) 358-9622,"Coffee & Tea, Cafes",
-3,318 Restaurant & Bar,4.4,33,-,(419) 225-7500,"Bars, Burgers, Sandwiches","Outdoor seating, Takeout"
-4,The Axe-Handle,4.6,20,$$,(419) 659-1116,Gastropubs,
-5,Old City Prime,3.7,116,$$$,(419) 227-7463,"Steakhouses, Bars",Outdoor seating
-6,Zinum 12,4.8,6,-,(567) 712-6345,"Burgers, Chicken Wings, Wraps","Delivery, Takeout"
-7,Thai Jasmine Garden,4.5,152,$$,(419) 222-8886,Thai,"Outdoor seating, Delivery, Takeout"
-8,LuLu’s Diner,4.3,28,$,(419) 228-3447,American,Takeout
-9,Greenhorn,5.0,13,-,(567) 226-4568,Vegan,"Outdoor seating, Takeout"
-10,Beer Barrel Pizza & Grill,3.5,21,-,(419) 229-6211,"Pizza, American, Bars","Outdoor seating, Delivery, Takeout"
-,Applebee’s Grill + Bar,0.0,52,$$,+1-419-222-2757,"Sports Bars, American, Burgers","Outdoor seating, Delivery, Takeout"
+,Taco Bell,0.0,3,$,(419) 523-1198,Fast Food,"Delivery, Takeout"
+,Subway,0.0,3,-,+1-419-523-3383,"Fast Food, Sandwiches",Takeout
+1,Red Pig Inn,3.7,43,$$,(419) 969-1002,"Barbeque, Steakhouses, American","Outdoor seating, Delivery, Takeout"
+2,Henry’s Restaurant,3.5,17,$,(419) 523-5656,American,
+3,Tony’s,4.2,10,$,(419) 523-5262,"Ice Cream & Frozen Yogurt, American, Hot Dogs",Takeout
+4,Lucero’s Mexican Restaurant,5.0,7,$,(419) 523-5320,Mexican,Outdoor seating
+5,Cancun Mexican Restaurant,4.5,11,-,(419) 969-1066,Mexican,
+6,Well Grounded Cafe,5.0,3,-,(419) 969-2288,Cafes,
+7,Uptown Market & Café,4.1,16,-,(419) 601-8449,"Coffee & Tea, Cafes, Delis",
+8,Schnipke Inn,4.0,3,$$,(419) 523-3068,Sandwiches,
+9,Bombshelter Bar,3.4,8,$,(419) 538-6711,Pizza,
+10,McDonald’s,1.4,16,$,(419) 523-3533,"Fast Food, Burgers, Coffee & Tea","Delivery, Takeout"
