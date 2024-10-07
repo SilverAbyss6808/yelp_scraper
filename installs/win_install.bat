@@ -1,0 +1,1 @@
+python-3.10.6-amd64.exe /quiet InstallAllUsers=1 PrependPath=1 Include_test=0
